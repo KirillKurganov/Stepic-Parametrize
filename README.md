@@ -1,3 +1,3 @@
 # Stepic-Parametrize
 for tasks Stepic
-Степик
+It`s for Stepic
